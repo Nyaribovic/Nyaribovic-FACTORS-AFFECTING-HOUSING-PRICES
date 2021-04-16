@@ -1,4 +1,4 @@
-# Nyaribovic-FACTORS-AFFECTING-HOUSING-PRICES
+# FACTORS-AFFECTING-HOUSING-PRICES
 # Purpose of the Repository
 
 The aim of this project is to predict factors affecting housing prices given information on real estate propertie. 
