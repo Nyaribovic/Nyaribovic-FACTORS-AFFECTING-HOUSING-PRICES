@@ -1,0 +1,15 @@
+import sklearn
+import itertools
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from pandas import Series, DataFrame
+from sklearn.pipeline import Pipeline
+import statsmodels.formula.api as smf
+from sklearn.linear_model import Ridge
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import cross_val_score
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.model_selection import train_test_split
+matplotlib.rcParams.update({'font.size': 12})
